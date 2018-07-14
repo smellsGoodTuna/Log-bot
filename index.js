@@ -22,4 +22,4 @@ bot.registry.registerGroup("embed", "Embed");
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands");
 
-bot.login("NDY3MzQwMTIyNzAzMTM0NzIx.DipL9g.gfkSKbGf0-j55SXov0u8aqasY84");
+bot.login("");

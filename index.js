@@ -22,4 +22,5 @@ bot.registry.registerGroup("embed", "Embed");
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands");
 
+// Enter your bot token in the quotations below
 bot.login("");

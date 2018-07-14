@@ -6,7 +6,7 @@ A simple Discord bot used to log events in any channel.
 ### Installing
 1. Download and install [Node.js](https://nodejs.org/en/ "Node.js Download")
 2. Download this code, extract it into a folder of choice
-3. Enter your discord bot token in the `index.js` file (at the bottom of the file)
+3. Enter your discord bot token in the quotations at the bottom of the `index.js` file
 4. Run the bot with `run.bat` file
 5. Invite to server with a role that can `manage messages` 
 ### Commands
